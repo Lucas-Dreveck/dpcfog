@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the work it accompanies."
+title: "dpcfog: pre-filtering malicious recommendations in Fog-IoT with Density Peaks Clustering"
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Dreveck
+    given-names: Lucas
+    affiliation: Faculdade Donaduzzi
+    email: lucas.dreveck@alunos.bpkedu.com.br
+  - family-names: Lima
+    given-names: Letícia Siguinolfi de
+    affiliation: Faculdade Donaduzzi
+  - family-names: Fülber-Garcia
+    given-names: Vinícius
+    affiliation: Universidade Federal do Paraná
