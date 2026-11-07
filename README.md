@@ -1,5 +1,7 @@
 # dpcfog: pre-filtering malicious recommendations with Density Peaks Clustering
 
+[![DOI](https://zenodo.org/badge/1448945399.svg)](https://doi.org/10.5281/zenodo.24026192)
+
 Code and results for the undergraduate thesis *Pré-Filtragem de Recomendações
 Maliciosas em Fog-IoT Utilizando Density Peaks Clustering* (Faculdade
 Donaduzzi, 2026), written in Portuguese.
